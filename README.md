@@ -152,12 +152,7 @@ python 04_analyze_visualize.py
 
 ## Author
 
-**Mahdi (Matt) Aarabi, Ph.D.**  
-Computational Scientist | Widener University  
-[LinkedIn](https://www.linkedin.com/in/mahdi--aarabi/) | [GitHub](https://github.com/mahdiaarabi)
+**Mahdi Aarabi, Ph.D.**  
+Computational Scientist 
 
-## Related Projects
-
-- [On-the-Fly Crystal](https://github.com/mahdiaarabi/On-the-Fly-Crystal) — Automated PES construction framework (Fortran/Python)
-- [QSAR Kinase Inhibitors](https://github.com/mahdiaarabi/QSAR-Kinase-Inhibitors) — ML property prediction models (Python/RDKit/scikit-learn)
 
