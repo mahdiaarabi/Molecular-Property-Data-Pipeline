@@ -92,8 +92,8 @@ Molecular-Property-Pipeline/
 
 ### Prerequisites
 - Python 3.8+
-- AWS account (free tier: S3, EC2)
-- Snowflake account (free 30-day trial)
+- AWS account (S3, EC2)
+- Snowflake account
 
 ### Setup
 
