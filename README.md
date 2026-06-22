@@ -150,6 +150,7 @@ python 04_analyze_visualize.py
 | Visualization | Matplotlib |
 | Version Control | Git |
 
+
 ## Author
 
 **Mahdi Aarabi, Ph.D.**  
