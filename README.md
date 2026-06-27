@@ -7,6 +7,7 @@
 [![Snowflake](https://img.shields.io/badge/Snowflake-Data%20Warehouse-29B5E8)]()
 [![SQL](https://img.shields.io/badge/SQL-Advanced-green)]()
 
+
 ## Overview
 
 A production-style data pipeline that demonstrates end-to-end data engineering for pharmaceutical molecular property analysis. The pipeline ingests raw molecular data, stores it in **AWS S3**, applies Python-based cleaning and transformation routines, loads the processed data into **Snowflake**, and runs **SQL** analytical queries to generate statistical reports and visualizations.
