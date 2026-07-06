@@ -2,7 +2,7 @@
 Step 4: Statistical Analysis and Visualization
 ===============================================
 Connects to Snowflake, runs analytical SQL queries, and
-generates publication-quality visualizations and reports.
+generates publication-quality visualizations
 
 Author: Mahdi Aarabi, Ph.D.
 """
