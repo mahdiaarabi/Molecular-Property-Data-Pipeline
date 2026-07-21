@@ -169,7 +169,6 @@ def main():
     df_clean.to_csv("data/kinase_inhibitors_cleaned.csv", index=False)
     print("\nStep 2 complete: Cleaned data uploaded to S3 and saved locally.")
 
-
 if __name__ == "__main__":
     main()
 
