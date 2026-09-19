@@ -7,7 +7,6 @@ property dataset into Snowflake for SQL-based analysis.
 Author: Mahdi Aarabi, Ph.D.
 """
 
-
 import snowflake.connector
 import pandas as pd
 import sys
@@ -188,3 +187,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
