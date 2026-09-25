@@ -7,14 +7,12 @@ for centralized cloud-based data storage.
 Author: Mahdi Aarabi, Ph.D.
 """
 
-
 import boto3
 import os
 import sys
 from config import (
     AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY, AWS_REGION, S3_BUCKET_NAME
 )
-
 
 def create_s3_client():
     """Initialize AWS S3 client with credentials."""
